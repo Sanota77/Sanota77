@@ -1,8 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Wild Code School / Solutions909
 - 🌱 I’m currently learning ... PHP , SYMFONY
 - 👯 I’m looking to collaborate on ... PHP, SYMFONY
