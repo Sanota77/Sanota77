@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... Vue.js / React / Docker 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin] https://www.linkedin.com/in/kf8522/ [Email] fernandezpro8522@gmail.com
-- 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm a wizard too!
