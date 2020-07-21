@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin] https://www.linkedin.com/in/kf8522/ [Email] fernandezpro8522@gmail.com
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... Adoring Nicol Bolas 🌱🌱🌱
--->
+- ⚡ Fun fact: ... I'm a wizard too!
