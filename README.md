@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... PHP, SYMFONY
 - 🤔 I’m looking for help with ... Vue.js / React / Docker 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Mail] fernandezpro8522@gmail.com
+- 📫 How to reach me: ... [Linkedin] https://www.linkedin.com/in/kf8522/
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Adoring Nicol Bolas 🌱🌱🌱
 -->
