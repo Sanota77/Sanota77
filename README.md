@@ -1,4 +1,4 @@
-### Here is What I'm Working On! 👋
+# Here is What I'm Working On! 👋
 
 - 🔭 I’m currently working on ... Wild Code School / Solutions909
 - 🌱 I’m currently learning ... PHP , SYMFONY
