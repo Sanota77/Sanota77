@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... PHP, SYMFONY
 - 🤔 I’m looking for help with ... Vue.js / React / Docker 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin] https://www.linkedin.com/in/kf8522/ [Email] fernandezpro8522@gmail.com
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/kf8522/)
 - ⚡ Fun fact: ... I'm a wizard too!
 
