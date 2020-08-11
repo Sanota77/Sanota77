@@ -5,5 +5,5 @@
      
 - 🌱 De nature curieux je cherche à me former autant sur le Front que sur le Back , et plus particulierement à Vue.js / React ou encore Laravel.
 
-- 📫 N'hésitez pas à venir faire un tour sur mon [Linkedin](https://www.linkedin.com/in/kf8522/) pour pouvoir échanger ensemble!
+- 📫 💬 N'hésitez pas à venir faire un tour sur mon [Linkedin](https://www.linkedin.com/in/kf8522/) pour que l’on puisse échanger!
 
