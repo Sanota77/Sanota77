@@ -1,4 +1,4 @@
-# Hello World! Kevin FERNANDEZ Développeur Web Junior 👋
+# Hello World! Kevin Fernandez Développeur Web Junior ⚡ 
 
 - 🔭 Après avoir intégré La Wild Code School dans le cadre d’une reconversion professionnelle avec pour objectif de devenir Développeur Web ,
      Je suis actuellement en stage chez Solutions909 où j'ai pour mission de développer des applications en PHP / Symfony.
