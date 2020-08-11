@@ -1,10 +1,9 @@
-# Here is What I'm Working On! 👋
+# Hello World! Kevin FERNANDEZ Développeur Web Junior 👋
 
-- 🔭 I’m currently working on ... Wild Code School / Solutions909
-- 🌱 I’m currently learning ... PHP , SYMFONY
-- 👯 I’m looking to collaborate on ... PHP, SYMFONY
-- 🤔 I’m looking for help with ... Vue.js / React / Docker 
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/kf8522/)
-- ⚡ Fun fact: ... I'm a wizard too!
+- 🔭 Après avoir intégré La Wild Code School dans le cadre d’une reconversion professionnelle avec pour objectif de devenir Développeur Web ,
+     Je suis actuellement en stage chez Solutions909 où j'ai pour mission de développer des applications en PHP / Symfony.
+     
+- 🌱 De nature curieux je cherche à me former autant sur le Front que sur le Back , et plus particulierement à Vue.js / React ou encore Laravel.
+
+- 📫 N'hésitez pas à venir faire un tour sur mon [Linkedin](https://www.linkedin.com/in/kf8522/) pour pouvoir échanger ensemble!
 
